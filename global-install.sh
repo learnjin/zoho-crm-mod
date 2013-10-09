@@ -3,7 +3,7 @@
 PATH_EXTENSION="/usr/lib/firefox-addons/extensions"
 
 # download extension
-wget -O addon.xpi "$1"
+wget -O "https://github.com/learnjin/zoho-crm-mod/blob/master/xpi/zoho-crm-mod.xpi?raw=true"
 
 # get extension UID from install.rdf
 UID_ADDON=`unzip -p addon.xpi install.rdf | grep "<em:id>" | head -n 1 | sed 's/^.*>\(.*\)<.*$/\1/g'`
