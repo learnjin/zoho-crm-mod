@@ -3,7 +3,7 @@
 To install for all users:
 
 ```
-curl https://github.com/learnjin/zoho-crm-mod/blob/master/global-install.sh | sh
+curl https://raw.github.com/learnjin/zoho-crm-mod/master/global-install.sh | sh
 ```
 
 
