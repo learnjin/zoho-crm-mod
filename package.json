@@ -2,8 +2,12 @@
   "name": "zoho-crm-mod",
   "fullName": "zoho-crm-mod",
   "id": "jid1-sfbFODAAV1Xj3w",
-  "description": "some basic modifications for zoho",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "improves zoho layout on adding call popup",
+  "author": "Kai Rubarth",
+  "license": "",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/learnjin/zoho-crm-mod.git"
+  }
 }

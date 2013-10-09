@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name       Zoho new call layout
-// @namespace  http://www.doxter.de
-// @version    0.6
-// @description  improves zoho layout on adding call popup
-// @match      https://crm.zoho.com/*
-// @copyright  2013, Kai Rubarth
-// ==/UserScript==
-
 // check for call popup
 function hasOldPanel(){
     if(document.querySelector('div#rightPanel')===null){
