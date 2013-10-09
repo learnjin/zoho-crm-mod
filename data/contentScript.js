@@ -114,4 +114,3 @@ document.querySelector('div#qCreate').addEventListener('DOMSubtreeModified', fun
     }
 });
 
-alert('hi there');
